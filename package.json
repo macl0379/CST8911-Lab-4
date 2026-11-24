@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "**Student Name**: Collin MacLeod **Student ID**: macl0379 **Course**: CST8911 Intro to Cloud Computing **Semester**: Fall 2026",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC"
