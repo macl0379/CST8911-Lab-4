@@ -2,7 +2,8 @@
   "name": "cst8911-lab-4",
   "version": "1.0.0",
   "description": "**Student Name**: Collin MacLeod **Student ID**: macl0379 **Course**: CST8911 Intro to Cloud Computing **Semester**: Fall 2026",
-  "main": "index.js",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
   "keywords": [],
   "author": "",
   "license": "ISC"
