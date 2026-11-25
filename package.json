@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "**Student Name**: Collin MacLeod **Student ID**: macl0379 **Course**: CST8911 Intro to Cloud Computing **Semester**: Fall 2026",
   "main": "server.js",
-  "scripts": {"start": "node server.js"},
+  "scripts": {
+    "start": "node server.js",
+    "build": "node --check server.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
